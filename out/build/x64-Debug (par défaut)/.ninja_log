@@ -1,0 +1,8 @@
+# ninja log v5
+1	347	638481083	CMakeFiles/date.dir/main.cpp.obj	9d379f4ce09aefb7
+5	811	638481083	CMakeFiles/date.dir/src/Date.cpp.obj	d67d4565c81da79a
+812	1303	638481084	date.exe	d92596079194c35d
+0	1032	638481155	CMakeFiles/date.dir/src/Date.cpp.obj	d67d4565c81da79a
+1033	1306	638481155	date.exe	d92596079194c35d
+0	771	638481212	CMakeFiles/date.dir/src/Date.cpp.obj	d67d4565c81da79a
+772	1120	638481212	date.exe	d92596079194c35d
